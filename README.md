@@ -19,3 +19,9 @@ LIST
 ADD EMPLOYEE
 DELETE EMPLOYEE
 ENTER AS ADMIN
+
+![20180326_202144](https://github.com/undifined-coder/employee-review-System/assets/130596564/866dcb87-00b3-45b4-97c3-b030ce791608)
+
+
+
+
